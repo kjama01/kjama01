@@ -10,21 +10,21 @@ During my studies, I have developed a passion for designing and developing fulls
 
 📖 I’m currently learning Angular and Spring Boot.
 
-#Feel free to check out some of my projects!
+# Feel free to check out some of my projects!
 ---
 - [Weather App](https://github.com/kjama01/WeatherApp)  
 - [Tic Tac Toe](https://github.com/kjama01/TicTacToe)  
 - [Battle Ship](https://github.com/kjama01/Battleship)  
 - [To Do List](https://github.com/kjama01/ToDos)  
 
-#🤝 Connect with me
+# 🤝 Connect with me
 ---
 <p align="left">
   <a href="mailto:kamiljamroz01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/kjama01"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-#🛠️ Languages and Tools:
+# 🛠️ Languages and Tools:
 ---
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
