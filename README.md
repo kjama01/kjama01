@@ -9,11 +9,13 @@ During my studies, I have developed a passion for designing and developing fulls
 
 📖 I’m currently learning Angular and Spring Boot.
 
+💡 I'd like to talk about my interests and hobbies, but it's better not to turn this into my personal blog 😅. Tl;dr I'm interested in everything that is challenging and demanding, both physically and mentally.
+
 # Feel free to check out some of my projects!
 - [Weather App](https://github.com/kjama01/WeatherApp)  
 - [Tic Tac Toe](https://github.com/kjama01/TicTacToe)  
 - [Battle Ship](https://github.com/kjama01/Battleship)  
-- [To Do List](https://github.com/kjama01/ToDos)  
+- [TODO List App](https://github.com/kjama01/ToDos)  
 
 # 🤝 Connect with me
 <p align="left">
