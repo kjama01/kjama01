@@ -2,10 +2,11 @@
 <img src="https://i.imgur.com/BJK3NvP.png" alt="Banner" />
 </p>
 <h1 align="center">Hi there 👋</h1>
-I'm Kamil and it's a pleasure to have you on my profile. If you decided to stop by, let me tell you a bit about myself.
-&nbsp;
-I'm a technology enthusiast who enjoys setting new challenges for myself and raising the bar every time. I began my journey in programming in 2022 at the Wyższa Szkoła Technologii Informatycznych, where I am currently pursuing a degree in Computer Science with a specialization in Software Engineering.
+I'm Kamil and it's a pleasure to have you on my profile. If you decided to stop by, let me tell you a bit about myself.  
+
+I'm a technology enthusiast who enjoys setting new challenges for myself and raising the bar every time. I began my journey in programming in 2022 at the Wyższa Szkoła Technologii Informatycznych, where I am currently pursuing a degree in Computer Science with a specialization in Software Engineering.  
 During my studies, I have developed a passion for designing and developing fullstack applications.
+
 
 🖥️ My primary focus has been on frontend technologies, but I am now extending my skills to the backend in order to become a fullstack developer.
 
