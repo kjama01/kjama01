@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://i.imgur.com/BJK3NvP.png" alt="Banner" />
 </p>
+
 # Hi there 👋
 I'm Kamil and it's a pleasure to have you on my profile. If you decided to stop by, let me tell you a bit about myself.
 
