@@ -1,5 +1,5 @@
 # Hi there 👋, 
-
+---
 I'm Kamil and it's a pleasure to have you on my profile. If you decided to stop by, let me tell you a bit about myself.
 
 📝‍ About Me
@@ -10,13 +10,22 @@ During my studies, I have developed a passion for designing and developing fulls
 
 📖 I’m currently learning Angular and Spring Boot.
 
-Feel free to check out some of my projects!
+#Feel free to check out some of my projects!
+---
 - [Weather App](https://github.com/kjama01/WeatherApp)  
 - [Tic Tac Toe](https://github.com/kjama01/TicTacToe)  
 - [Battle Ship](https://github.com/kjama01/Battleship)  
 - [To Do List](https://github.com/kjama01/ToDos)  
 
-🛠️ Languages and Tools:
+#🤝 Connect with me
+---
+<p align="left">
+  <a href="mailto:kamiljamroz01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/kjama01"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+#🛠️ Languages and Tools:
+---
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
@@ -29,10 +38,4 @@ Feel free to check out some of my projects!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 
-</p>
-
-## 🤝 Connect with me
-<p align="left">
-  <a href="mailto:kamiljamroz01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/kjama01"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
