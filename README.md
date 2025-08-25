@@ -6,7 +6,7 @@ I'm Kamil and it's a pleasure to have you on my profile. If you decided to stop 
 I'm a technology enthusiast who enjoys setting new challenges for myself and raising the bar every time...
 
 
-🖥️ My primary focus has been on frontend technologies, but I am now extending my skills to the backend in order to become a fullstack developer.
+🖥️ My primary focus has been on frontend technologies, but I am now broadening my expertise into backend development, computer networks, and cybersecurity, in order to build a more comprehensive IT skill set.
 
 📖 I’m currently learning Angular and Spring Boot.
 
