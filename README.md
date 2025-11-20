@@ -2,15 +2,7 @@
 <img src="https://i.imgur.com/BJK3NvP.png" alt="Banner" />
 </p>
 <h1 align="center">Hi there 👋</h1>
-I'm Kamil and it's a pleasure to have you on my profile. If you decided to stop by, let me tell you a bit about myself.<br><br>
-I'm a technology enthusiast who enjoys setting new challenges for myself and raising the bar every time...
-
-
-🖥️ My primary focus has been on frontend technologies, but I am now broadening my expertise into backend development, computer networks, and cybersecurity, in order to build a more comprehensive IT skill set.
-
-📖 I’m currently learning Angular and Spring Boot.
-
-💡 I'd like to talk about my interests and hobbies, but it's better not to turn this into my personal blog 😅. Tl;dr I'm interested in everything that is challenging and demanding, both physically and mentally.
+I'm Kamil and it's a pleasure to have you on my profile.
 
 # Feel free to check out some of my projects!
 - [Weather App](https://github.com/kjama01/WeatherApp)  
